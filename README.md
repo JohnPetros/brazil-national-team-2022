@@ -26,7 +26,7 @@ Aplicativo acerca dos jogadores da seleção brasileira da copa do mundo de 2022
 
 ### Demonstração
 <div align="center">
-  <img width="250" alt="Demonstração do App funcionando" src=".github/omni-tech.gif" />
+  <img width="250" alt="Demonstração do App funcionando" src=".github/brazil-national-team-2022.gif" />
 </div>
 
 ---
