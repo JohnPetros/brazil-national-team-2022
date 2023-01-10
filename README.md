@@ -41,6 +41,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ✔️ **[Animatable](https://github.com/oblador/react-native-animatable)**
 
+✔️ **[DayJs](https://day.js.org/)**
+
 ---
 
 ## 🚀 Como rodar este projeto
