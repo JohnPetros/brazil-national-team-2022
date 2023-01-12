@@ -19,7 +19,6 @@
 </div>
 
 <br>
-
 ## 🖥️ Projeto
 
 Aplicativo acerca dos jogadores da seleção brasileira da copa do mundo de 2022, apresentando informações como nome, altura, data de nascimento/idade, número de camiseta, clube e posição em que joga cada jogador. Esse projeto foi desenvolvido como última tarefa de 2022 na disciplina de programação mobile na Etec com o intuito de compensar o recesso de aulas ocasionado pelos jogos da copa.
@@ -76,7 +75,6 @@ $ npx expo start
 
 ```
 ---
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
